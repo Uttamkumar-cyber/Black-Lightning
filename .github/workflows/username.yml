@@ -18,7 +18,7 @@ jobs:
 
         with:
 
-          find: "@krish1303y"
+          find: "@whyredisgod"
 
           replace: "@keinshin"
 
@@ -34,6 +34,6 @@ jobs:
 
           repository: .
 
-          commit_user_name: Kei
+          commit_user_name: whyred
 
           commit_user_email: poxsisofficial@gmail.com
