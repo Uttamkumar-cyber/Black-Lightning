@@ -1,7 +1,7 @@
 
-<h2 align="center"><b>Owner: <a href="https://telegram.dog/krish1303y">B乛LAC丨ᗩᑎᗰᗝᒪ ᔕᖇIᐯᗩᔕ丅ᗩᐯᗩ 🇮🇳 ⁪⁬⁮⁮⁮#ƈʏɮɛʀlєgєnds</a></b></h2>
+<h2 align="center"><b>Owner: <a href="https://telegram.dog/whyredisgod">B乛tek丨ᗩman ᔕᖇIᐯᗩᔕ丅ᗩᐯᗩ 🇮🇳 ⁪⁬⁮⁮⁮#ƈʏɮɛʀlєgєnds</a></b></h2>
 <br>
-<p align="center"><a href="https://t.me/lightningsupport"><img src="https://telegra.ph/file/07d55d71944a852ac6d5e.jpg"></a></p> 
+<p align="center"><a href="https://telegra.ph/file/e3fe87f18f23b1a1196ab.jpg"></a></p> 
 </p>
 <h1>BLACK LIGHTNING</h1>
 <b>A Powerful, Smart And Simple Userbot In Telethon.</b>
@@ -49,8 +49,6 @@ Thx To  Friday And Dark Cobra Bot :") And Big Big Thx To 🔱╚»★𝙍𝘿�
 
 
 # Support
-<a href="https://t.me/blacklightningot"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://t.me/lightningsupport"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 ## Tottal CMDs -: CMDS Are More Than 470 :D
 
@@ -102,7 +100,7 @@ This is a userbot made for telegram. I made this userbot with help of all other 
 
 # How To
 
-<a href="https://youtu.be/xfHcm_e92eQ"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
+<a href="https://yotu.be/xfHcm_e92eQ"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
 
 <a href="https://app.gitbook.com/@poxsisofficial/s/blackBlack Lightning /"><img src="https://img.shields.io/badge/Read%20More-GitBook-red.svg"></a>
 
@@ -112,7 +110,7 @@ This is a userbot made for telegram. I made this userbot with help of all other 
 
 # Deploy
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KeinShin/Black-Lightning)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Uttamkumar-cyber/Black-Lightning)
 
 
 
